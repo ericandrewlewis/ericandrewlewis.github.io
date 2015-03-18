@@ -3,4 +3,4 @@
 	url = https://github.com/ericandrewlewis/visualizations.git
 [submodule "cool-text-converter"]
 	path = cool-text-converter
-	url = git@github.com:ericandrewlewis/translatorthingie.git
+	url = https://github.com/ericandrewlewis/translatorthingie.git
