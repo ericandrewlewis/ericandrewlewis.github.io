@@ -4,3 +4,6 @@
 [submodule "cool-text-converter"]
 	path = cool-text-converter
 	url = https://github.com/ericandrewlewis/translatorthingie.git
+[submodule "unicode-hacker-bench"]
+	path = unicode-hacker-bench
+	url = https://github.com/ericandrewlewis/unicode-hacker-bench.git
