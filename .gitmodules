@@ -7,3 +7,6 @@
 [submodule "unicode-hacker-bench"]
 	path = unicode-hacker-bench
 	url = https://github.com/ericandrewlewis/unicode-hacker-bench.git
+[submodule "flying-objects-screensaver"]
+	path = flying-objects-screensaver
+	url = git@github.com:ericandrewlewis/flying-objects-screensaver.git
