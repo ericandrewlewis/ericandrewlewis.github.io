@@ -10,3 +10,6 @@
 [submodule "flying-objects-screensaver"]
 	path = flying-objects-screensaver
 	url = https://github.com/ericandrewlewis/flying-objects-screensaver.git
+[submodule "emoji-mosaic"]
+	path = emoji-mosaic
+	url = https://github.com/ericandrewlewis/emoji-mosaic.git
