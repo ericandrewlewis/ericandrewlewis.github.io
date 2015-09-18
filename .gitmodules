@@ -13,3 +13,6 @@
 [submodule "emoji-mosaic"]
 	path = emoji-mosaic
 	url = https://github.com/ericandrewlewis/emoji-mosaic.git
+[submodule "how-a-quadtree-works"]
+	path = how-a-quadtree-works
+	url = https://github.com/ericandrewlewis/how-a-quadtree-works.git
