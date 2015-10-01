@@ -19,3 +19,6 @@
 [submodule "chronological-list-with-a-preference-for-the-present"]
 	path = chronological-list-with-a-preference-for-the-present
 	url = https://github.com/ericandrewlewis/ground-up.git
+[submodule "twitter-upside-down"]
+	path = twitter-upside-down
+	url = https://github.com/ericandrewlewis/twitter-upside-down.git
