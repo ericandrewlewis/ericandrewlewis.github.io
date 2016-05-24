@@ -22,9 +22,6 @@
 [submodule "twitter-upside-down"]
 	path = twitter-upside-down
 	url = https://github.com/ericandrewlewis/twitter-upside-down.git
-[submodule "neon"]
-	path = neon
-	url = https://github.com/ericandrewlewis/neon.git
 [submodule "short-news"]
 	path = short-news
 	url = https://github.com/ericandrewlewis/short-news.git
