@@ -25,3 +25,6 @@
 [submodule "short-news"]
 	path = short-news
 	url = https://github.com/ericandrewlewis/short-news.git
+[submodule "pad"]
+	path = pad
+	url = https://github.com/ericandrewlewis/pad.git
