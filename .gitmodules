@@ -28,3 +28,6 @@
 [submodule "pad"]
 	path = pad
 	url = https://github.com/ericandrewlewis/pad.git
+[submodule "prosemirror-inspect-positions"]
+	path = prosemirror-inspect-positions
+	url = https://github.com/ericandrewlewis/prosemirror-inspect-positions.git
