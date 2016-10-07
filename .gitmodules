@@ -31,6 +31,6 @@
 [submodule "prosemirror-inspect-positions"]
 	path = prosemirror-inspect-positions
 	url = https://github.com/ericandrewlewis/prosemirror-inspect-positions.git
-[submodule "Eric-Andrew-Lewis-8-bit-Side-Scroller-Website"]
-	path = Eric-Andrew-Lewis-8-bit-Side-Scroller-Website
+[submodule "old-personal-8-bit-website"]
+	path = old-personal-8-bit-website
 	url = https://github.com/ericandrewlewis/Eric-Andrew-Lewis-8-bit-Side-Scroller-Website.git
