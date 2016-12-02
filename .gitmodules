@@ -34,3 +34,6 @@
 [submodule "Eric-Andrew-Lewis-8-bit-Side-Scroller-Website"]
 	path = Eric-Andrew-Lewis-8-bit-Side-Scroller-Website
 	url = https://github.com/ericandrewlewis/Eric-Andrew-Lewis-8-bit-Side-Scroller-Website.git
+[submodule "bad-habits-tracker"]
+	path = bad-habits-tracker
+	url = https://github.com/ericandrewlewis/bad-habits-tracker.git
