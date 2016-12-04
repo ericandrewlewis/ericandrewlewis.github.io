@@ -37,3 +37,6 @@
 [submodule "bad-habits-tracker"]
 	path = bad-habits-tracker
 	url = https://github.com/ericandrewlewis/bad-habits-tracker.git
+[submodule "google-sheet-day-editor"]
+	path = google-sheet-day-editor
+	url = https://github.com/ericandrewlewis/google-sheet-day-editor.git
